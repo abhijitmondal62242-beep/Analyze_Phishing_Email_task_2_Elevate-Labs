@@ -28,6 +28,7 @@ Suspicious Content: Link text says "verify," but hovering reveals "human-resourc
 Social Engineering: Creates urgency/fear ("account suspended," "24 hours") to induce panic and hasty clicks. Exploits trust in PayPal brand.
 Other Errors: No spelling mistakes, but lacks HTTPS (secure sites use it); requests sensitive action without prior notice.
 Threat Detection Summary
+
 Overall Risk: High phishing likelihood—combines spoofing, urgency, and malicious link (VirusTotal scan would flag it as known phishing site).
 Potential Impact: Clicking could lead to credential theft or malware; no attachment here, but similar emails often include Trojans.
 Recommendations: Delete immediately, report to PhishTank/human-resources@webnotifications.net/abuse, enable 2FA on accounts. Verify via official app.
